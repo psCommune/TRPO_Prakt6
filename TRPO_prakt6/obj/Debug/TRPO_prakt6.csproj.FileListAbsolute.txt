@@ -1,0 +1,16 @@
+C:\myProject\TRPO_prakt6\bin\Debug\TRPO_prakt6.exe.config
+C:\myProject\TRPO_prakt6\bin\Debug\TRPO_prakt6.exe
+C:\myProject\TRPO_prakt6\bin\Debug\TRPO_prakt6.pdb
+C:\myProject\TRPO_prakt6\obj\Debug\TRPO_prakt6.csproj.AssemblyReference.cache
+C:\myProject\TRPO_prakt6\obj\Debug\TRPO_prakt6.csproj.SuggestedBindingRedirects.cache
+C:\myProject\TRPO_prakt6\obj\Debug\MainWindow.g.cs
+C:\myProject\TRPO_prakt6\obj\Debug\App.g.cs
+C:\myProject\TRPO_prakt6\obj\Debug\TRPO_prakt6_MarkupCompile.cache
+C:\myProject\TRPO_prakt6\obj\Debug\TRPO_prakt6_MarkupCompile.lref
+C:\myProject\TRPO_prakt6\obj\Debug\MainWindow.baml
+C:\myProject\TRPO_prakt6\obj\Debug\TRPO_prakt6.g.resources
+C:\myProject\TRPO_prakt6\obj\Debug\TRPO_prakt6.Properties.Resources.resources
+C:\myProject\TRPO_prakt6\obj\Debug\TRPO_prakt6.csproj.GenerateResource.cache
+C:\myProject\TRPO_prakt6\obj\Debug\TRPO_prakt6.csproj.CoreCompileInputs.cache
+C:\myProject\TRPO_prakt6\obj\Debug\TRPO_prakt6.exe
+C:\myProject\TRPO_prakt6\obj\Debug\TRPO_prakt6.pdb
